@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, 2023\n";
+  cout << "Hello, Earth\n";
   cout << "Hello, Jenkins\n";
   cout << "PES2UG20CS363\n";
   cout << "Successful Pipeline\n";

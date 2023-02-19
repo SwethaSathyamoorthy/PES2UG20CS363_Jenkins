@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                sh 'g++ pes2ug20cs363_5.cpp -o pes2ug20cs363_5'
+                sh 'g++ PES2UG20363_5.cpp -o PES2UG20CS363_5'
                 echo 'build stage successful'
                 build job: 'PES2UG20CS363-1'
             }
@@ -16,7 +16,7 @@ pipeline
         {
             steps
             {
-                sh './pes2ug20cs363_5'
+                sh './PES2UG20CS363_5'
                 echo 'test stage successful'
             }
         }

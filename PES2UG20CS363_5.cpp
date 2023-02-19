@@ -1,4 +1,4 @@
-//File: pes2ug20cs363_5.cpp
+//File: PES2UG20CS363_5.cpp
 #include <iostream>
 using namespace std;
 
